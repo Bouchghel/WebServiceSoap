@@ -5,7 +5,7 @@ il s'agit d'une application qui permet de créer votre propre web WebService(SOA
 ![CreationWebService](https://github.com/Bouchghel/WebServiceSoap/assets/93221225/9a05d1d0-60a7-4e40-9b30-d2b198a57ede)
 # Deployer le Web Service avec un simple Serveur JaxWs
 ![DeployementWebServiceSurSW](https://github.com/Bouchghel/WebServiceSoap/assets/93221225/1f333427-9176-4d77-8157-5e731cfe9e5e)
-# Analyse du WSDL
+# Analyse du WSDL pour savoir l'interface
 ![Wsdl](https://github.com/Bouchghel/WebServiceSoap/assets/93221225/07515745-1ba5-4eae-b001-e6344ad24b03)
 # Tester Le Web Service Avec l'outil SoapUI
 ![testWebService](https://github.com/Bouchghel/WebServiceSoap/assets/93221225/a7c0903c-e7a5-42d3-8b5b-cb54e796f40b)
